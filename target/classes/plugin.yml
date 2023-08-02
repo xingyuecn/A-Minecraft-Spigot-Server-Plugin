@@ -1,0 +1,11 @@
+name: Plugins
+version: '1.19.2'
+main: me.eric.plugins.Plugins
+api-version: 1.19
+commands:
+  announce:
+    description: announce
+  heal:
+    description: heal players
+  gui:
+    description: a gui
